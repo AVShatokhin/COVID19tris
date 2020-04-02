@@ -10,6 +10,11 @@
 *.dll
 *.dylib
 
+Release
+Debug
+*.opensdf
+*.sdf
+
 # Qt-es
 object_script.*.Release
 object_script.*.Debug
